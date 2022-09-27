@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE7vVn1S07zWQ/profile-displaybackgroundimage-shrink_350_1400/0/1661458005355?e=1669852800&v=beta&t=jAmUzOB4CZB2ARQ2hl-HMGb_70wkI_gVG3rh8vNgTFE)
 <h1 align="center">Hi 👋, I'm Ogooluwa E. Olutimilehin</h1>
 <h3 align="center">I am a very proactive and intuitive Web/Software Developer with High Honors in Information Technology. Passionate about solving problems with the use of software and gaining more experience building easy-to-use, responsive, accessible, and user-friendly websites and web applications. Highly focused on bringing value to any team I am a part of and I also believe in the team building. I'm always ready to learn from team-mates as well as assist in team activities.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FMedRedha%2Ffd8e2481bde2610c96b9aafde543879c&psig=AOvVaw3BBrsTa5clq55LSj7xna1W&ust=1664324209713000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCguYLZs_oCFQAAAAAdAAAAABAD"/>
 
 
 
