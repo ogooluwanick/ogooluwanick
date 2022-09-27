@@ -1,7 +1,8 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE7vVn1S07zWQ/profile-displaybackgroundimage-shrink_350_1400/0/1661458005355?e=1669852800&v=beta&t=jAmUzOB4CZB2ARQ2hl-HMGb_70wkI_gVG3rh8vNgTFE)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE7vVn1S07zWQ/profile-displaybackgroundimage-shrink_350_1400/0/1661458005355?e=1669852800&v=beta&t=jAmUzOB4CZB2ARQ2hl-HMGb_70wkI_gVG3rh8vNgTFE)
 <h1 align="center">Hi 👋, I'm Ogooluwa E. Olutimilehin</h1>
 <h3 align="center">I am a very proactive and intuitive Web/Software Developer with High Honors in Information Technology. Passionate about solving problems with the use of software and gaining more experience building easy-to-use, responsive, accessible, and user-friendly websites and web applications. Highly focused on bringing value to any team I am a part of and I also believe in the team building. I'm always ready to learn from team-mates as well as assist in team activities.</h3>
-<img align="center" alt="linkedin header" src="https://media-exp1.licdn.com/dms/image/C4D16AQE7vVn1S07zWQ/profile-displaybackgroundimage-shrink_350_1400/0/1661458005355?e=1669852800&v=beta&t=jAmUzOB4CZB2ARQ2hl-HMGb_70wkI_gVG3rh8vNgTFE" width="100%"/> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogooluwanick&label=Profile%20views&color=0e75b6&style=flat" alt="ogooluwanick" /> </p>
