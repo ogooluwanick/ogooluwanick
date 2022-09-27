@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ogooluwa E. Olutimilehin</h1>
 <h3 align="center">I am a very proactive and intuitive Web/Software Developer with High Honors in Information Technology. Passionate about solving problems with the use of software and gaining more experience building easy-to-use, responsive, accessible, and user-friendly websites and web applications. Highly focused on bringing value to any team I am a part of and I also believe in the team building. I'm always ready to learn from team-mates as well as assist in team activities.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FMedRedha%2Ffd8e2481bde2610c96b9aafde543879c&psig=AOvVaw3BBrsTa5clq55LSj7xna1W&ust=1664324209713000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCguYLZs_oCFQAAAAAdAAAAABAD"/>
-
+<script src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js"></script>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogooluwanick&label=Profile%20views&color=0e75b6&style=flat" alt="ogooluwanick" /> </p>
