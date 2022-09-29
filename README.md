@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Laravel, PHP and Python**
 
-- 👨‍💻 All of my projects are available at [https://ogooluwanick-portfolio.netlify.app/](https://ogooluwanick-portfolio.netlify.app/)
+- 👨‍💻 See [My Portfolio](https://ogooluwanick-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Next.js, Node, Laravel and JS**
+- 💬 Ask me about **React, Node, Laravel and JS**
 
 - 📫 How to reach me **extremeworkbench@gmail.com**
 
-- 📄 Know about my experiences [https://ogooluwanick-portfolio.netlify.app/static/media/01_Ogooluwa_Olutimilehin_CV.6c69a12c056e52516081.pdf](https://ogooluwanick-portfolio.netlify.app/static/media/01_Ogooluwa_Olutimilehin_CV.6c69a12c056e52516081.pdf)
+- 📄 Know about my experiences [resume](https://ogooluwanick-portfolio.netlify.app/static/media/01_Ogooluwa_Olutimilehin_CV.6c69a12c056e52516081.pdf)
 
 - ⚡ Fun fact **I am an introvert(big shock). I gym, swim and play basketball. Anime all day...**
 
