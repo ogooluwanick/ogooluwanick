@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume](https://ogooluwanick-portfolio.netlify.app/static/media/01_Ogooluwa_Olutimilehin_CV.6c69a12c056e52516081.pdf)
 
-- ⚡ Fun fact **I am an introvert(big shock). I gym, swim and play basketball. Anime all day...**
+- ⚡ Fun fact **I am an introvert(big shock). I gym, swim and play basketball. Anime...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
