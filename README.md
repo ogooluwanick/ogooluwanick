@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogooluwanick&label=Profile%20views&color=0e75b6&style=flat" alt="ogooluwanick" /> </p>
 
-- 🔭 I’m currently working on **lara_gigs**
+- 🔭 I’m currently working on **Kobo store**/**Right builder**
 
-- 🌱 I’m currently learning **Laravel, PHP and Python**
+- 🌱 I’m currently learning **Laravel, Flask and Next.js**
 
 - 👨‍💻 See [My Portfolio](https://ogooluwanick-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Node, Laravel and JS**
+- 💬 Ask me about **React, Node, Laravel and Next.js**
 
 - 📫 How to reach me **extremeworkbench@gmail.com**
 
