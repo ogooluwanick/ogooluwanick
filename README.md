@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogooluwanick&label=Profile%20views&color=0e75b6&style=flat" alt="ogooluwanick" /> </p>
 
-- 🔭 I’m currently working on **Kobo store**/**Right builder**
+- 🔭 I’m currently working on **Alpha Society**/**Right builder**
 
-- 🌱 I’m currently learning **Laravel, Flask and Next.js**
+- 🌱 I’m currently learning **Laravel, Solidity and Next.js**
 
 - 👨‍💻 See [My Portfolio](https://ogooluwanick-portfolio.netlify.app/)
 
